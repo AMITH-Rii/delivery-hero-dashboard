@@ -1,0 +1,7 @@
+Product,Category,Orders,Revenue,Delivery_Time,Customer_Rating
+Food Delivery,Food,1250,185000,32,4.5
+Grocery Delivery,Grocery,980,142000,28,4.3
+Restaurant Delivery,Food,1120,165000,35,4.4
+Quick Commerce,Grocery,1450,210000,24,4.6
+Parcel Delivery,Logistics,760,98000,40,4.1
+Pharmacy Delivery,Healthcare,620,87000,30,4.2
